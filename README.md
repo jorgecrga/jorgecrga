@@ -1,5 +1,14 @@
-### Hi there 👋
-Hola a todos, me llamo jorge y soy un entusiasta del análsis de los datos
+### Una breve descripción sobre mí 👋
+Hola a todos, me llamo Jorge. Soy un analista de datos con experiencia en la generación de reportes, diseño de bases de datos y visualización de datos. 
+
+Algunas de las herramientas que domino son:
+
+- Python 🐍 
+- SQL 🛢️
+- Power BI 📈
+- Excel 📊
+
+Aquí le puedes echar un vistazo a mí portafolio de proyectos
 <!--
 **jorgecrga/jorgecrga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
