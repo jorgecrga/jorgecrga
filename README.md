@@ -8,5 +8,5 @@ Algunas de las herramientas que domino son:
 - Power BI 📈
 - Excel 📊
 
-Visita mi [portafolio](https://github.com/jorgecrga/portafolio) y descubre algunos de los proyectos en los que he estado trabajando.
+Visita mi [portafolio](https://github.com/jorgecrga/portafolio/blob/main/README.md) y descubre algunos de los proyectos en los que he estado trabajando.
 
