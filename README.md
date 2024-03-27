@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hola a todos, me llamo jorge y soy un entusiasta del análsis de los datos
 <!--
 **jorgecrga/jorgecrga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
